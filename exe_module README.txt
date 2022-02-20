@@ -1,7 +1,7 @@
 1.) Download the ZIP File
 2.) Extract all to a comfortable location on your system.
 3.) Open the folder and copy the .py file in it.
-4.) Copy the folder and paste it in the correct location by following the instructions that are below.
+4.) Paste it in the correct location by following the instructions that are below.
 5.) Locate the folder Libs by the below given location details:
 	i.) C:\Users\<user_name>\AppData\Local\Programs\Python<Python310(or)Python32-37>\Lib (or)
 	ii.) C:\Users\<user_name>\AppData\Local\Programs\Python<Python310(or)Python32-37>\Lib\site-packages
